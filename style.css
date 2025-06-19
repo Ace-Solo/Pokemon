@@ -1,0 +1,81 @@
+.title {
+    font-size: 100px;
+    color:rgb(135, 218, 243);
+    text-decoration: underline;
+}
+
+.box {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 100px;
+    margin: 50px;
+    border-radius: 40px;
+    gap: 50px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 100px;
+    margin: 50px;
+    border-radius: 40px;
+    gap: 200px;
+    height: 200px;
+   border: 10px solid black;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 100px;
+    margin: 50px;
+    border-radius: 40px;
+    gap: 50px;
+    height: 200px;
+       border: 10px solid black;
+
+}
+
+.bg {
+    background-color: rgb(8, 11, 54);
+
+}
+
+.text {
+    color: white;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+.link {
+    font-size: 100px;
+    
+}
+.taille {
+    font-size: 40px;
+}
+
+.radius {
+    border-radius: 40px;
+}
+.box2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 100px;
+    margin: 50px;
+    border-radius: 40px;
+    gap: 50px;
+}
+.Name {
+    color: white;
+    font-size: 30px;
+}
